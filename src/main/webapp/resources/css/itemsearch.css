@@ -1,0 +1,64 @@
+@charset "UTF-8";
+*{padding:0;margin:0}
+#itemlist{
+	margin-top : 10px;
+	width : 1190px;
+	text-align: left;
+	text-align-last: left; 
+	
+}
+.box{
+	display: inline-block;
+	width: 290px;
+	height: 400px;
+} 
+.card{
+	display:inline-block;
+	margin : 20px;
+	border: 0px;
+	height: 368px;
+	width: 250px;
+}
+
+.flexitem{
+	display: flex;
+	width:1190px;
+	justify-content: flex-end;
+	
+	
+}
+.red{
+	color: red;
+}
+.itemcss{
+	color: red;
+}
+.card-text{
+	margin-bottom : 0px;
+	overflow : hidden;
+	white-space: nowrap;
+	text-overflow : ellipsis;
+	height: 24px;
+	font-size: 13px;
+	font-weight: bold;
+}
+.iDchidden{
+	display: none;
+}
+.iDc{
+   font-size: 15px;
+   color : red;
+   
+   
+}
+.iName{
+	font-size: 30px;
+}
+.iPrice{
+   display: flex;
+   justify-content: flex-end;
+   height: 22.5px;
+}
+.iPricehidden{
+   display: none;
+}
