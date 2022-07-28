@@ -1,5 +1,5 @@
-# TeamProject3
-TeamProject3
+# TeamProject
+TeamProject
 
 메인페이지
 
