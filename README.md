@@ -1,5 +1,5 @@
 # TeamProject
-TeamProject
+쇼핑몰 TeamProject
 
 메인페이지
 
